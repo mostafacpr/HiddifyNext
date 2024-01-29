@@ -20,3 +20,5 @@
  نصب روی ویندوز (کلیک کنید) نسخه portable
  نصب روی مک (کلیک کنید)
 نصب روی لینوکس (کلیک کنید)
+
+![alt text](https://frp.free.nf/wp-content/uploads/2023/11/ios.mp4 "Title")
