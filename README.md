@@ -56,3 +56,15 @@
 
 
 اصول مهندسی نرم افزار ، از کتاب Robert Code Martin [*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ، اقتباس گرفته شده است تا در این نوشته اصول آن برای زبان برنامه نویسی PHP را بررسی کنیم. این یک راهنمای ساده نیست. این یک راهنما برای تولید نرم افزارهای قابل خواندن با خوانایی بالا، قابل استفاده مجدد در زبان برنامه نویسی پی اچ پی است.
+
+
+<details><summary>Does not work</summary>
+[hi](https://hello.ca)
+</details>
+
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
