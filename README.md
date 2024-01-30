@@ -63,3 +63,11 @@ __salam ali__
 (https://m.fix7.shop)[non]
 
 [camelCase](https://camelcase.ir/)🌳🍉🍉🌷 📷  ☕
+
+---
+
+<div dir=”rtl”>
+
+متن خود را بنویسید….
+
+</div>
