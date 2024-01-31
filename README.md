@@ -71,3 +71,29 @@ __salam ali__
 متن خود را بنویسید….
 
 </div>
+
+/div>
+                <br>
+                <div id="donate" class="modal fade" role="dialog">
+                    <div class="modal-dialog modal-sm">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h4 class="modal-title">دونیت</h4>
+                            </div>
+                            <div class="modal-body modalBodyOverflow">
+                                <p>درصورت تمایل برای دونیت می‌تونین از یکی‌از روش‌های زیر استفاده کنین:</p>
+                                <div class="dirLeft">
+                                    
+                                    
+                                    <small>Tron (TRX):</small>
+                                    <br>
+                                    <input type="text" class="form-control text-center" value="TKpFB8JGsFgQQL6kMVX7UWedMnXCwcKhLH" />
+                                                                      
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">حله</button>
+                            </div>
+                        </div>
+                    </div>
+                
