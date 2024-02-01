@@ -9,7 +9,10 @@
 
 
 --- 
- 
+
+ lang: ar
+dir: rtl
+
  آندروید :
  
  برنامه [*HidifyNext*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
