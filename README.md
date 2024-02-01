@@ -9,11 +9,11 @@
 ---
 
 > [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
-
+>
 > [*IOS*](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
-
+>
 > [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
-
+>
 > [Fregment Tool](https://f.fix7.shop)
 
 
