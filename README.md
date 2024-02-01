@@ -8,6 +8,14 @@
 
 ----[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)----
 
+
+
+# عنوان اول
+این متن فارسی باید راست به چپ نشان داده شود.
+
+This is the English paragraph, so it's direction in html should be left-to-right.
+
+
 ---
 
 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
