@@ -17,8 +17,8 @@
   آیفون :
   
  
-برنامه زیر را از اپل استور دانلود و نصب میکنیم .
-
+برنامه [streisand](https://apps.apple.com/us/app/streisand/id6450534064)
+ را از اپل استور دانلود و نصب میکنیم .
 [streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
 
@@ -32,7 +32,6 @@
 
 
 فیلم آموزشی
-
 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
 
 
