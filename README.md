@@ -33,7 +33,7 @@
 
  <p dir="rtl">برنامه streisand رو از لینک زیر از اپل استور دانلود و نصب میکنیم </p> 
 
- **click ==>** [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
+> **click ==>** [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
 
  
  
@@ -44,7 +44,7 @@
 
 <p dir="rtl">فیلم آموزشی ==></p>
 
-🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
+> 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
 
 
 
@@ -52,7 +52,7 @@
 
 <p dir="rtl">فیلم آموزشی ==></p>
 
-🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
+> 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
 
  
 ________________________________________
