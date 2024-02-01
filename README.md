@@ -33,7 +33,6 @@
 
  <p dir="rtl">برنامه (*streisand*)[https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view] رو از لیینک زیر از اپل استور دانلود و نصب میکنیم </p> 
  
-برنامه [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
  را از اپل استور دانلود و نصب میکنیم .
 
 
