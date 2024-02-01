@@ -21,6 +21,7 @@
   
  
 برنامه زیر را از اپل استور دانلود و نصب میکنیم .
+
 [streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
 
@@ -32,7 +33,9 @@
 
 و دکمه سبز رنگ (بارگذاری در برنامه ) کنار برنامه streisand رو میزنم تا کانفیگ ها در برنامه وارد بشه سپس دکمه connect رو میزنیم.
 
+
 فیلم آموزشی
+
 
 (Streisand🎥)[https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view]
 
@@ -41,14 +44,9 @@
 
 
 فیلم آموزشی
+
 (Update on open🎥)[https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view]
  
- نصب روی ویندوز (کلیک کنید) نسخه portable
- 
- نصب روی مک (کلیک کنید)
-
-نصب روی لینوکس (کلیک کنید)
-
 
 </div>
 
