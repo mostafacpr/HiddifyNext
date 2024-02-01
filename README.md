@@ -6,7 +6,7 @@
 </center>
 </h1>
 
------------------------[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)----------------------
+------[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)--------
 
 
 **HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
