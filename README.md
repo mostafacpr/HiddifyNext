@@ -55,13 +55,6 @@
 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
 
  
-
-
-
-<h1 dir="rtl"></h1>
-<p dir="rtl">این متن فارسی باید راست به چپ نشان داده شود.</p>
-<p>This is the English paragraph, so it's direction in html should be left-to-right.</p>
-
 ________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) & [karajfix@gmail.com](mailto:gfix4600@gmail.com)       
