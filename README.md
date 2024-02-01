@@ -6,8 +6,6 @@
 </center>
 </h1>
 
-----[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)----
-
 
 
 <h1 dir="rtl">عنوان اول</h1>
@@ -35,7 +33,7 @@
 
  ---
   آیفون :
-  
+ <p dir="rtl">برنامه streisand رو از لیینک زیر از اپل استور دانلود و نصب میکنیم </p> 
  
 برنامه [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
  را از اپل استور دانلود و نصب میکنیم .
