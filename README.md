@@ -17,11 +17,7 @@
  [Fregment Tool](https://f.fix7.shop)
 
 
---- 
 
- lang: ar
- 
-dir: rtl
 
  آندروید :
  
