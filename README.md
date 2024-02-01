@@ -43,10 +43,8 @@
 
 
 
+________________________________________
 
-<details>
-<summary>hello</summary>
-<br>
- 
+Contact Us → [Telegram](http://t.me/fastfixgsm) & [karajfix@gmail.com](mailto:gfix4600@gmail.com)       
 
 
