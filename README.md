@@ -8,7 +8,7 @@
  
  آندروید :
  
- برنامه رو از اینجا => [*HidifyNext Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
+ برنامه [*HidifyNext Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
 
  ، دانلود و نصب میکنیم سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
  
@@ -19,7 +19,6 @@
  
 برنامه [streisand](https://apps.apple.com/us/app/streisand/id6450534064)
  را از اپل استور دانلود و نصب میکنیم .
-[streisand](https://apps.apple.com/us/app/streisand/id6450534064)
 
 
 
