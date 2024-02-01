@@ -11,7 +11,7 @@
  سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
  
 
-[فیلم آموزشی]([Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
+[Hiddify Next]([Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
 
  ---
  
