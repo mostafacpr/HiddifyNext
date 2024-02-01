@@ -37,7 +37,7 @@
 فیلم آموزشی
 
 
-(Streisand🎥)[https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view]
+🎥((Streisand)[https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view]
 
 
 گزینه Setting > subscription > update on open رو هم بزنین . تا در هربار بازشدن برنامه کانفیگ های جدید رو دریافت کنه. طبق فیلم پایین
@@ -45,7 +45,7 @@
 
 فیلم آموزشی
 
-(Update on open🎥)[https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view]
+🎥(Update on open)[https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view]
  
 
 </div>
