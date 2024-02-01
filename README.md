@@ -29,7 +29,7 @@
 
  ---
 
- <p dir="rtl">## آیفون</p>
+ <h1 dir="rtl">آیفون :</h1>
 
  <p dir="rtl">برنامه (*streisand*)[https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view] رو از لیینک زیر از اپل استور دانلود و نصب میکنیم </p> 
  
@@ -60,7 +60,7 @@
 
 
 
-<h1 dir="rtl">عنوان اول</h1>
+<h1 dir="rtl"></h1>
 <p dir="rtl">این متن فارسی باید راست به چپ نشان داده شود.</p>
 <p>This is the English paragraph, so it's direction in html should be left-to-right.</p>
 
