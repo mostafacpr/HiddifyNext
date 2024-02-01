@@ -1,7 +1,11 @@
 
 دانلود برنامه هیدیفای نکست
 
-**HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Tool](https://f.fix7.shop)
+**HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
+
+[windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
+
+ [Fregment Tool](https://f.fix7.shop)
 
 
 --- 
