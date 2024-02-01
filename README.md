@@ -10,12 +10,6 @@
 
 
 
-# عنوان اول
-این متن فارسی باید راست به چپ نشان داده شود.
-
-This is the English paragraph, so it's direction in html should be left-to-right.
----
-
 <h1 dir="rtl">عنوان اول</h1>
 <p dir="rtl">این متن فارسی باید راست به چپ نشان داده شود.</p>
 <p>This is the English paragraph, so it's direction in html should be left-to-right.</p>
@@ -31,12 +25,13 @@ This is the English paragraph, so it's direction in html should be left-to-right
 
 ---
 
+<p dir="rtl">آندروید:</p>
 
  آندروید :
  
- برنامه [*HidifyNext*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
+ برنامه [*HidifyNext*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) <p dir="rtl"
  ، را دانلود و نصب میکنیم سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
- 
+ </p>
 
  ---
   آیفون :
