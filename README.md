@@ -4,9 +4,9 @@
 **HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Tool](https://f.fix7.shop)
 
 
-  برای آندروید
+ ## برای آندروید
  
- برنامه رو از اینجا => HiddifyNext[*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) ، دانلود و نصب میکنیم سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
+ برنامه رو از اینجا => H[*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) ، دانلود و نصب میکنیم سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
  
  
  ## نصب روی آیفون
