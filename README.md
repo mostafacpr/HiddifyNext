@@ -43,8 +43,8 @@
 
 
 فیلم آموزشی
+🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
 
-🎥(Update on open)[https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view]
  
 
 
