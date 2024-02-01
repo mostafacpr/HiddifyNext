@@ -1,4 +1,4 @@
-
+<div dir="rtl">
 
 
 
@@ -6,9 +6,10 @@
 
  ## برای آندروید
  
- د برنامه را از لینک بالا دانلود و نصب کنید /:
+ برنامه را از لینک بالا دانلود و نصب کنید /:
  
-  سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ بارگذاری در برنامه رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود :/
+ سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ بارگذاری در برنامه رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود :/
+ 
 
 [فیلم آموزشی]([Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
 
@@ -18,9 +19,13 @@
  
 برنامه زیر را از اپل استور دانلود و نصب میکنیم /:
 
-[برنامه Streisand
-](https://apps.apple.com/us/app/streisand/id6450534064)
+
+![برنامه streisand](https://frp.free.nf/wp-content/uploads/2023/11/ios.mp4 "Title")
+
+
 با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم
+
+
 
 درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم .
 
@@ -65,187 +70,6 @@
 __salam ali__
 *salam ali*
 
-(https://m.fix7.shop)[non]
-
-[camelCase](https://camelcase.ir/)🌳🍉🍉🌷 📷  ☕
-
----
-
-<div dir=”rtl”>
-
-متن خود را بنویسید….
+</div>
 
 
-{
-  "log": {
-    "access": "",
-    "error": "",
-    "loglevel": "warning"
-  },
-  "inbounds": [
-    {
-      "tag": "socks",
-      "port": 10808,
-      "listen": "127.0.0.1",
-      "protocol": "socks",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "routeOnly": false
-      },
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "allowTransparent": false
-      }
-    },
-    {
-      "tag": "http",
-      "port": 10809,
-      "listen": "127.0.0.1",
-      "protocol": "http",
-      "sniffing": {
-        "enabled": true,
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "routeOnly": false
-      },
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "allowTransparent": false
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "tag": "proxy",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "###CLEANIP###",
-            "port": "443",
-            "users": [
-              {
-                "id": "###UUID###",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "p2.IPcL.tOP",
-          "alpn": [
-            "h2",
-            "http/1.1"
-          ],
-          "fingerprint": "chrome",
-          "show": false
-        },
-        "wsSettings": {
-          "path": "/NcnELaMKKFprtS7GqudEw78d/?ed=2048",
-          "headers": {
-            "Host": "p2.IPcL.tOP"
-          }
-        },
-        "sockopt": {
-          "dialerProxy": "fragment",
-          "tcpKeepAliveIdle": 100,
-          "mark": 255
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "fragment",
-      "protocol": "freedom",
-      "settings": {
-        "fragment": {
-          "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
-        }
-      },
-      "streamSettings": {
-        "sockopt": {
-          "TcpNoDelay": true,
-          "tcpKeepAliveIdle": 100,
-          "mark": 255
-        }
-      }
-    },
-    {
-      "tag": "direct",
-      "protocol": "freedom",
-      "settings": {}
-    },
-    {
-      "tag": "block",
-      "protocol": "blackhole",
-      "settings": {
-        "response": {
-          "type": "http"
-        }
-      }
-    }
-  ],
-  "routing": {
-    "domainStrategy": "AsIs",
-    "rules": [
-      {
-        "type": "field",
-        "inboundTag": [
-          "api"
-        ],
-        "outboundTag": "api",
-        "enabled": true
-      },
-      {
-        "id": "5465425548310166497",
-        "type": "field",
-        "outboundTag": "direct",
-        "domain": [
-          "domain:ir",
-          "geosite:cn"
-        ],
-        "enabled": true
-      },
-      {
-        "id": "5425034033205580637",
-        "type": "field",
-        "outboundTag": "direct",
-        "ip": [
-          "geoip:private",
-          "geoip:cn",
-          "geoip:ir"
-        ],
-        "enabled": true
-      },
-      {
-        "id": "5627785659655799759",
-        "type": "field",
-        "port": "0-65535",
-        "outboundTag": "proxy",
-        "enabled": true
-      }
-    ]
-  }
-}
