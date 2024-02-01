@@ -4,16 +4,10 @@
 **HiddifyNext** → [Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) & [windows](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) & [Fregment Tool](https://f.fix7.shop)
 
 
- ## برای آندروید
+  برای آندروید
  
- برنامه را از لینک بالا دانلود و نصب کنید /:
+ برنامه رو از اینجا => HiddifyNext[*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) ، سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
  
- سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
- 
-
-[Hiddify Next]([Android](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk)
-
- ---
  
  ## نصب روی آیفون
  
@@ -60,7 +54,7 @@
 </details>
 
 
-اصول مهندسی نرم افزار ، از کتاب Robert Code Martin [*Clean Code*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ، اقتباس گرفته شده است تا در این نوشته اصول آن برای زبان برنامه نویسی PHP را بررسی کنیم. این یک راهنمای ساده نیست. این یک راهنما برای تولید نرم افزارهای قابل خواندن با خوانایی بالا، قابل استفاده مجدد در زبان برنامه نویسی پی اچ پی است.
+برنامه رو از اینجا => HiddifyNext[*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) ، سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود .
 
 __salam ali__
 *salam ali*
