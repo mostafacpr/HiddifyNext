@@ -42,7 +42,7 @@
  
  </p>
 
-<p dir="rtl">فیلم آموزشی.</p>
+<p dir="rtl">=>>فیلم آموزشی.</p>
 
 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
 
