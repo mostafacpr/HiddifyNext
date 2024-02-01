@@ -6,7 +6,7 @@
 </center>
 </h1>
 
-------[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)--------
+----[درصورتیکه متن سایت مفهوم نیست کلیک کنید](https://github.com/mostafacpr/hiddify)----
 
 ---
 
