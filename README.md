@@ -14,7 +14,11 @@
 این متن فارسی باید راست به چپ نشان داده شود.
 
 This is the English paragraph, so it's direction in html should be left-to-right.
+---
 
+<h1 dir="rtl">عنوان اول</h1>
+<p dir="rtl">این متن فارسی باید راست به چپ نشان داده شود.</p>
+<p>This is the English paragraph, so it's direction in html should be left-to-right.</p>
 
 ---
 
