@@ -33,7 +33,7 @@
 
  <p dir="rtl">برنامه streisand رو از لیینک زیر از اپل استور دانلود و نصب میکنیم </p> 
 
- [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
+ **click ==>** [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
 
  
  
