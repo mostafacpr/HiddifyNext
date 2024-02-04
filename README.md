@@ -54,13 +54,18 @@
 
 > 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
 
+---
+
 <h3 dir="rtl">فعالسازی فراگمنت در برنامه هیدیفای نکست  :</h3>
 
-![activefragmentinhiddifynextgif](https://github.com/mostafacpr/HiddifyNext/assets/120664716/ec9ce34a-8df8-4239-a9df-8c9b83cbe0ca)
+![activefragmentinhiddifynextgif](https://github.com/mostafacpr/HiddifyNext/assets/120664716/6f0562bc-ebea-4505-a25a-f026d51beeb0)
+
+---
 
 <h3 dir="rtl">غیرفعال کردن بهینه سازی باتری در هیدیفای نکست :</h3>
 
-![disablebatteryoptimizeinhiddifynext](https://github.com/mostafacpr/HiddifyNext/assets/120664716/3a27e64c-cca3-45f4-8a70-02f882b3f9c7)
+
+<img src="https://github.com/mostafacpr/HiddifyNext/assets/120664716/a86038ab-6e37-49cd-b0e1-8a9ea2095144" width="200" height="400" />
 
 
  
