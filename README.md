@@ -14,7 +14,6 @@
 
 * [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
 
-* [Fregment Tool](https://f.fix7.shop)
 
 
 ---
