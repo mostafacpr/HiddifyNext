@@ -6,6 +6,7 @@
 </center>
 </h1>
 
+
 ---
 
 🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
@@ -45,7 +46,7 @@
 
  <p dir="rtl">برنامه streisand رو از لینک زیر از اپل استور دانلود و نصب میکنیم </p> 
 
-> * [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
+✅ [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
 
  
  
@@ -56,7 +57,7 @@
 
 <p dir="rtl">فیلم آموزشی ==></p>
 
-> * 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
+✅ 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
 
 
 
@@ -64,7 +65,7 @@
 
 <p dir="rtl">فیلم آموزشی ==></p>
 
-> * 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
+✅ 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
 
 
 
