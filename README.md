@@ -11,7 +11,7 @@
 
 🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
 
-🟠 [*IOS*](https://apps.apple.com/us/app/streisand/id6450534064)
+🟠 [*IOS*](https://apps.apple.com/us/app/streisand/id6450534064) _ [2 (testing)](https://testflight.apple.com/join/URrT6ZWm)
 
 🟠 [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
 
