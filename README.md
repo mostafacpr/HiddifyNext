@@ -9,7 +9,7 @@
 
 ---
 
-🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
+🟠 [*Android 1.1*](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-Android-universal.apk) + [last](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
 
 🟠 [*IOS*](https://apps.apple.com/us/app/streisand/id6450534064) _ [2 (testing)](https://testflight.apple.com/join/URrT6ZWm)
 
