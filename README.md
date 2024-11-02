@@ -13,7 +13,7 @@
 
 [short link](short.gfix4600.workers.dev/Cn3Cwa) -  short.gfix4600.workers.dev/Cn3Cwa
 
-🟠 [*IOS*](https://apps.apple.com/us/app/streisand/id6450534064) _ [2 (testing)](https://testflight.apple.com/join/URrT6ZWm)
+🟠 [*IOS*](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) 
 
 🟠 [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
 
